@@ -1,6 +1,6 @@
 # 📚 PagePalette – MERN Bookstore Web Application
 
-**PagePalette** is a full-featured web application designed for browsing, and managing books. Built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js), it provides an intuitive and seamless experience for both **book lovers** and **sellers**, supporting both **free** and **paid** books.
+**PagePalette** is a full-featured web application designed for browsing, and managing books. Built using the **MERN stack** technology (MongoDB, Express.js, React.js, Node.js), it provides an intuitive and seamless experience for both **book lovers** and **sellers**, supporting both **free** and **paid** books.
 
 ---
 
