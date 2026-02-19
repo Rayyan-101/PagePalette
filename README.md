@@ -17,7 +17,7 @@
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React.js, React Router, Axios, Bootstrap/Tailwind CSS
+- **Frontend:** React.js, React Router, Axios, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB with Mongoose
 - **Authentication:** JWT, bcrypt
